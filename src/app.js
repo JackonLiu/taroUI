@@ -11,6 +11,7 @@ class App extends Component {
       'pages/view/index',
       'pages/view/article/index',
       'pages/feedback/index',
+      'pages/theme/index',
       'pages/data-entry/index',
       'pages/layout/index',
       'pages/navigation/index',
