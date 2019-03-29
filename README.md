@@ -54,9 +54,11 @@ $ taro build --type h5 --watch
 # npx用户也可以使用
 $ npx taro build --type h5 --watch
 ```
-h5 用yarn编译的方法
+h5 用yarn编译的方法	
 请先删除node_modules文件夹
+	
 yarn
+	
 yarn dev:h5
 
 
