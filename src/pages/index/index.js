@@ -29,6 +29,11 @@ export default class Index extends Taro.Component {
           content: '对话框等7个组件',
         },
         {
+          id: 'Theme',
+          title: '自定义主题',
+          content: '主题变量和全局样式',
+        },
+        {
           id: 'Data-entry',
           title: '数据录入',
           content: '输入框等13个组件',
