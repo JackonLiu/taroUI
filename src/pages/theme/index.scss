@@ -1,0 +1,8 @@
+/**
+ * page/index/index.scss 必须在 Page 上
+ * .at-button 为组件内部类名，只需要写一样的类名去覆盖即可，但需要注意层级问题。（使用方式跟传统 CSS 一样）
+ **/
+$color-brand: #6190E8;
+.my-button.at-button {
+  background: $color-brand;
+}
